@@ -30,7 +30,8 @@
             "Texture.armor_leather",
             "Texture.armor_iron",
             "Texture.armor_gold",
-            "Texture.armor_diamond"
+            "Texture.armor_diamond",
+            "Texture.armor_netherite"
           ]
         }
       },
