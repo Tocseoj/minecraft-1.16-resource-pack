@@ -1,18 +1,18 @@
 {
-    "format_version": 2,
-    "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 14, 0 ]
-    },
-    "modules": [
-        {
-            "description": "Example vanilla resource pack",
-            "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
-            "version": [0, 0, 1]
-        }
-    ]
+  "format_version": 2,
+  "header": {
+    "description": "Netherite Horse Armor",
+    "name": "Netherite Horse Armor",
+    "uuid": "1dd3ac75-e6c7-42e0-b42d-4cf986925fa9",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Netherite Horse Armor",
+      "type": "resources",
+      "uuid": "f094384d-027e-4e7e-bffc-320133b65007",
+      "version": [1, 0, 0]
+    }
+  ]
 }
